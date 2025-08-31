@@ -5,14 +5,18 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jTHQZxrdfzsDUyHHBTFKdw6k7f9we7Dt#scrollTo=VgVsFPp7P6rt)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Gradio Interface](https://img.shields.io/badge/Interface-Gradio-FF4B4B?style=for-the-badge)]
+![Gradio Interface](https://img.shields.io/badge/Interface-Gradio-FF4B4B?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/ASR-Whisper-000000?style=for-the-badge)
 
 Мощная система для перевода речи в реальном времени с сохранением характеристик голоса. Поддерживает множество языков и обеспечивает высокое качество синтеза.
 
 ![RealTime Translator Interface](https://drive.google.com/uc?export=view&id=1xWSWulLBXspWvcAIYtg60I80uTYrI4M5)
-![RealTime Translator Interface](https://drive.google.com/file/d/1QdSTx_uVj7uUQc1rP3yppKde2Jco9QpD/view?usp=sharing)
+
+
+![RealTime Translator Interface](https://drive.google.com/file/d/1QdSTx_uVj7uUQc1rP3yppKde2Jco9QpD/view?usp=sharing) <br>
 ![RealTime Translator Interface](https://drive.google.com/file/d/1u7uukCgPvSy0MmJ72YRfxi5bZMU7i48d/view?usp=drive_link)
+
+![Interface Demo](https://drive.google.com/uc?export=view&id=1xWSWulLBXspWvcAIYtg60I80uTYrI4M5)
 
 ## ✨ Возможности
 
