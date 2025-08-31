@@ -11,12 +11,7 @@
 Мощная система для перевода речи в реальном времени с сохранением характеристик голоса. Поддерживает множество языков и обеспечивает высокое качество синтеза.
 
 ![RealTime Translator Interface](https://drive.google.com/uc?export=view&id=1xWSWulLBXspWvcAIYtg60I80uTYrI4M5)
-
-
-![RealTime Translator Interface](https://drive.google.com/file/d/1QdSTx_uVj7uUQc1rP3yppKde2Jco9QpD/view?usp=sharing) <br>
-![RealTime Translator Interface](https://drive.google.com/file/d/1u7uukCgPvSy0MmJ72YRfxi5bZMU7i48d/view?usp=drive_link)
-
-![Interface Demo](https://drive.google.com/file/d/1QdSTx_uVj7uUQc1rP3yppKde2Jco9QpD/view?usp=drive_link)
+ 
 
 ## ✨ Возможности
 
